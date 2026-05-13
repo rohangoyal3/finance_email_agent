@@ -1,0 +1,21 @@
+To: rajesh@abccorp.in
+Subject: Quick Reminder – INV-2024-001 | ₹45,000.00 Due
+Stage: stage_1 | Tone: Warm & Friendly
+Days Overdue: 5
+────────────────────────────────────────────────────────────
+
+Hi Rajesh,
+
+I hope you're doing well! This is a friendly reminder that Invoice INV-2024-001
+for ₹45,000.00 was due on 20 Apr 2025.
+
+If you have already processed this payment, please disregard this message.
+Otherwise, you can complete the payment using the link below:
+
+https://pay.example.com/INV-2024-001
+
+Thank you for your continued partnership. Please don't hesitate to reach out
+if you have any questions.
+
+Warm regards,
+Finance Team

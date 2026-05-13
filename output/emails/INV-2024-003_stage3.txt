@@ -1,0 +1,23 @@
+To: karan@ghisolutions.in
+Subject: IMPORTANT: Outstanding Payment – INV-2024-003 (15 Days Overdue)
+Stage: stage_3 | Tone: Formal & Serious
+Days Overdue: 15
+────────────────────────────────────────────────────────────
+
+Dear Karan Singh,
+
+Despite our previous reminders, Invoice INV-2024-003 for ₹31,500.00 remains
+unpaid as of today — now 15 days overdue since 10 Apr 2025.
+
+We request your immediate attention to this matter. Continued non-payment
+may impact your credit terms with us and affect future engagements.
+
+Please settle the outstanding amount or confirm a payment date within
+48 hours using the link below:
+
+https://pay.example.com/INV-2024-003
+
+For any queries, please contact our Finance team directly.
+
+Regards,
+Finance & Credit Team
