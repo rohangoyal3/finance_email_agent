@@ -1,8 +1,3 @@
-# Finance Credit Follow-Up Email Agent
-
-> **AI Enablement Internship — Task 2**  
-> Automated, escalating follow-up emails for overdue invoices 
-
 ## Project Overview
 
 This agent automates the finance team's credit follow-up workflow. It reads overdue invoice records, classifies each by days-overdue into one of four escalation stages, calls Claude to generate a personalised email at the correct tone, dispatches (or dry-runs) the email, and writes an immutable audit log entry for every action.
