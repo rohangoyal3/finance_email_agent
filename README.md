@@ -347,15 +347,3 @@ Tests cover:
 - [ ] WhatsApp / SMS fallback for unresponsive clients
 
 ---
-
-## 👤 Author
-
-**[Your Name]**
-AI Enablement Internship — Task 2
-May 2026
-
----
-
-## 📄 License
-
-MIT License — free to use and modify with attribution.
