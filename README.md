@@ -1,7 +1,7 @@
 # Finance Credit Follow-Up Email Agent
 
 > **AI Enablement Internship — Task 2**  
-> Automated, escalating follow-up emails for overdue invoices using Claude AI.
+> Automated, escalating follow-up emails for overdue invoices 
 
 ## Project Overview
 
